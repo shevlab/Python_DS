@@ -31,3 +31,8 @@ a = [1, 2, 3]
 for s in range(len(a)):
     if s % 2 :
         print(a[s + 1])
+
+a = [90, 45, 3, 43]
+for s in range(len(a)):
+    if s % 2 :
+        print(a[s])
